@@ -7,5 +7,5 @@
 	<p class="my-5 w-[600px] text-center text-gray-500">
 		Step into a realm where imagination meets innovation with Cinematic Stream AI ✨
 	</p>
-	<Button>Get started</Button>
+	<Button><a href="chat"> Get started</a></Button>
 </div>
